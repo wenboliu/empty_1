@@ -153,7 +153,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="426" selection-end="805" vertical-scroll-proportion="0.06846847">
+            <state line="28" column="21" selection-start="997" selection-end="997" vertical-scroll-proportion="0.65045047">
               <folding />
             </state>
           </provider>
@@ -174,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/BuildPipline.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/BuildPhase.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/BuildJob.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/TailorWebSocketServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/Client2.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/Server2.java" />
@@ -185,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/ServerRunning4.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/ServerRunning1.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/Client1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -722,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="426" selection-end="805" vertical-scroll-proportion="0.06846847">
+        <state line="28" column="21" selection-start="997" selection-end="997" vertical-scroll-proportion="0.65045047">
           <folding />
         </state>
       </provider>
