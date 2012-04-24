@@ -72,19 +72,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BuildJob.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildJob.java">
+      <file leaf-file-name="Clazz.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/Clazz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="29" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+            <state line="23" column="23" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildData.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildData.java">
+      <file leaf-file-name="UniversityData.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/UniversityData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="38" selection-start="1199" selection-end="1206" vertical-scroll-proportion="0.9623734">
+            <state line="20" column="23" selection-start="569" selection-end="569" vertical-scroll-proportion="0.37448558">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,19 +92,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildPhase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildPhase.java">
+      <file leaf-file-name="Department.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/Department.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="11" selection-start="278" selection-end="278" vertical-scroll-proportion="-8.36">
+            <state line="5" column="13" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildPipeline.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildPipeline.java">
+      <file leaf-file-name="University.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/University.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="31" selection-start="712" selection-end="712" vertical-scroll-proportion="-21.28">
+            <state line="12" column="17" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,7 +113,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="558" selection-end="558" vertical-scroll-proportion="-9.72">
+            <state line="14" column="24" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,11 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pri/tw/TailorWebSocketServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Client2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Server2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Server1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Server.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/ServerRunning2.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/ServerRunning3.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/ServerRunning4.java" />
@@ -144,7 +139,12 @@
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/BuildJob.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/BuildPipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Deparment.java" />
         <option value="$PROJECT_DIR$/src/main/java/pri/tw/BuildData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pri/tw/UniversityData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pri/tw/Clazz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pri/tw/University.java" />
       </list>
     </option>
   </component>
@@ -188,7 +188,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,19 +253,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -409,19 +409,6 @@
         <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Buildr.BeforeRunTask" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" />
       <module name="" />
@@ -446,6 +433,19 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Buildr.BeforeRunTask" enabled="false" />
         <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Buildr.BeforeRunTask" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
         <option name="PhingTarget" enabled="false" />
       </method>
@@ -596,37 +596,37 @@
         <state line="20" column="11" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="29" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="558" selection-end="558" vertical-scroll-proportion="-9.72">
+        <state line="14" column="24" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildPipeline.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/Clazz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="31" selection-start="712" selection-end="712" vertical-scroll-proportion="-21.28">
+        <state line="23" column="23" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildPhase.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/University.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="278" selection-end="278" vertical-scroll-proportion="-8.36">
+        <state line="12" column="17" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/BuildData.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="38" selection-start="1199" selection-end="1206" vertical-scroll-proportion="0.9623734">
+        <state line="5" column="13" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pri/tw/UniversityData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="23" selection-start="569" selection-end="569" vertical-scroll-proportion="0.37448558">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
